@@ -1,1 +1,1 @@
-# Word2Vec-with-Skipgram-and-Cbow-architecture
+# Word2Vec-with-Skipgram-and-Cbow-architectures
